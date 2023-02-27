@@ -33,6 +33,8 @@
 <h1><p align="center">Useful links</p></h1>
 <p align="right"><a href="#Content">To the content</a></p>
 
+⠀[ZigZag sybil addresses](https://twitter.com/zigzagkedar/status/1630093636733124608)
+
 ⠀[ZigZag](https://docs.zigzag.exchange/zigzag-exchange/airdrops)
 
 ⠀[Optimism Airdrop 2](https://community.optimism.io/docs/governance/airdrop-2/)
