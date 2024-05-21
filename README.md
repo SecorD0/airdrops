@@ -28,6 +28,7 @@
   - [Airdrop 2](https://raw.githubusercontent.com/SecorD0/airdrops/main/Optimism/2.csv) (09.02.2023).
 - [ZigZag](https://raw.githubusercontent.com/SecorD0/airdrops/main/ZigZag/1.csv) (24.02.2023).
 - [Archway](https://raw.githubusercontent.com/SecorD0/airdrops/main/Archway/1.csv) (06.07.2023).
+- [Merkly](https://raw.githubusercontent.com/SecorD0/airdrops/main/LayerZero/Merkly/1.csv) (20.05.2024).
 
 
 <h1><p align="center">Useful links</p></h1>
@@ -38,6 +39,8 @@
 ⠀ZigZag: [criteria](https://docs.zigzag.exchange/zigzag-exchange/airdrops), [sybil addresses](https://twitter.com/zigzagkedar/status/1630093636733124608)
 
 ⠀Archaway: [criteria](https://docs.archway.io/community/airdrop-snapshots), [claiming page](https://airdrop.archway.io)
+
+⠀Merkly: [criteria](https://commonwealth.im/layerzero/discussion/17362-merkly-rfp)
 
 
 <h1><p align="center">Express your gratitude</p></h1>
